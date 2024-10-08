@@ -1,8 +1,6 @@
 
-class Main {
+class Signup {
     public static void main(String[] args){
-        System.out.println("test");
-        int x = 4;
-        System.out.println(x);
+        System.out.println("signup");
     }
 }
